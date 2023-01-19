@@ -1,0 +1,42 @@
+# Changelog
+
+## [1.0.4] - 13 / 01 / 2023
+### Added
+
+- sistemato il debug
+- modifica del README.md
+- conversione del file main.py in main.exe con pyinstaller
+- cambiato il nome del file brainfuck.py in main.py 
+- compilazione del programma con pyinstaller 
+
+
+
+## [1.0.3] - 05 / 01 / 2023
+
+### Added
+
+- fixato il debug 
+- aggiunta la possibilità di salvare file (non ottimale come risultato, ancora da fixare)
+- modificato il README.md
+- aggiunti programmi esempio 
+
+
+
+## [1.0.2] - 04 / 01 / 2023
+
+### Added
+
+- modificato il programma brainfuck.py (cambiato i colori gui, fixato la shell)
+- modificato il README.md
+- aggiunti programmi esempio 
+
+## [1.0.1] - 03 / 01 / 2023
+
+### Added
+
+- aggiunto programma brainfuck.py
+- aggiunto programma function.py
+- aggiunto logo per l'interfaccia
+- file log
+- changelog.txt
+- readme.md
