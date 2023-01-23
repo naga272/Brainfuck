@@ -7,7 +7,6 @@
 - modifica del README.md
 - conversione del file main.py in main.exe con pyinstaller
 - cambiato il nome del file brainfuck.py in main.py 
-- compilazione del programma con pyinstaller 
 
 
 
