@@ -15,6 +15,8 @@ Programma python che permette di scrivere programmi in linguaggio brainfuck. Ogn
 
 ## Requisiti
 
+- s.o. :Windows 
+
 ## Esecuzione
 
 Una volta avviato il main.exe si avvia una GUI. L'utente può scrivere all'interno il codice in linguaggio bf. Gli eventuali risultati verranno stampati nella shell.
