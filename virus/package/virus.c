@@ -2,7 +2,6 @@
 #include <windows.h> // libreria che uso per nascondere la console
 #include <pthread.h>
 
-
 void function(){
 	int a = 1;
 	while(1){
@@ -10,7 +9,6 @@ void function(){
 	}
 	pthread_exit(0);
 }
-
 
 void main(int argc, char *argv[]){
 	HWND myWindow = GetConsoleWindow();
