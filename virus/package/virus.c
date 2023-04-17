@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <windows.h> // libreria che uso per nascondere la console
-#include <stdlib.h>
 #include <pthread.h>
 
 
